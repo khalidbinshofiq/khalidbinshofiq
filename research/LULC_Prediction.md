@@ -3,7 +3,7 @@
 # Framework for Predicting Urban Growth Pattern in Data Scarce Region
 
 ## 🔑 Objective
-1. To predict land use/land cover (LULC) changes of a municipality in Bangladesh using a ConvLSTM model with static drivers (DEM, distance-to-road).
+1. To predict land use/land cover (LULC) changes of a municipality in Bangladesh using a ConvLSTM model with static drivers (DEM, distance to road).
 2. Comparison of the Predicted Growth with the proposals of Municipalitie's master plan.
 
 ...
@@ -20,7 +20,7 @@
 
 ## 🔄 Land Use Transitions
 **Sankey Diagram (2004–2014–2024):**  
-![](../figs/sankey_transition.jpg)
+![](../sankey_transition.jpg)
 
 - Vegetation and agriculture were the major sources of built-up growth.  
 - Bidirectional transitions observed between vegetation and agriculture.  
