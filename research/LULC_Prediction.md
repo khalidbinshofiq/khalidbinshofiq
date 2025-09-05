@@ -31,10 +31,8 @@
 ## 📉 Change & Comparison Maps
 **Change Detection:**  
 ![](../change_maps.jpg)
-
 **Comparison of Actual vs Predicted (2024):**  
-![](../comparison_2024.png)
-
+![](../comparison_map.jpg)
 - Actual built-up: **2.22 km²**  
 - Predicted built-up: **2.48 km²** (well aligned, slight overestimation)  
 
