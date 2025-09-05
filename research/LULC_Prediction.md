@@ -1,4 +1,4 @@
-<div style="font-family: Georgia, 'Times New Roman', Times, serif;">
+<div style="font-family:'Times New Roman', Times, serif;">
 
 # Framework for Predicting Urban Growth Pattern in Data Scarce Region
 
