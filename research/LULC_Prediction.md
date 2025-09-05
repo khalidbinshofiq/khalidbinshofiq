@@ -30,7 +30,7 @@
 
 ## 📉 Change & Comparison Maps
 **Change Detection:**  
-![](../change_maps.png)
+![](../change_maps.jpg)
 
 **Comparison of Actual vs Predicted (2024):**  
 ![](../comparison_2024.png)
