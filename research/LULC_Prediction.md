@@ -16,8 +16,6 @@
 ## 🗺️ Land Cover Maps
 ![](../Figure_7.jpg)
 
----
-
 ## 🔄 Land Use Transitions
 **Sankey Diagram (2004–2014–2024):**  
 ![](../sankey_transition.jpg)
@@ -51,10 +49,10 @@
 ---
 ## 🔮 Prediction Maps
 **Predicted LULC (2031):**  
-![](../figs/prediction_2031.png)
+![](../prediction_2031.jpg)
 
 **Comparison with Master Plan (2031):**  
-![](../figs/comparison_masterplan.png)
+![](../comparison_masterplan.jpg)
 
 - Model forecasts built-up growth to **3.53 km² by 2031**.  
 - Some “urban deferred” zones in the master plan showed discrepancies with actual growth direction.  
@@ -64,7 +62,7 @@
 ## ⚠️ Uncertainty Analysis
 | Entropy Map | Uncertainty Map |
 |-------------|-----------------|
-| ![](../figs/uncertainty_entropy.png) | ![](../figs/uncertainty_simple.png) |
+| ![](../uncertainty_entropy.jpg) | ![](../uncertainty_simple.jpg) |
 
 - Low entropy & high confidence in **central built-up zones**.  
 - Higher uncertainty in transitional zones (vegetation/agriculture).  
