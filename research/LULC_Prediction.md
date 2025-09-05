@@ -20,7 +20,7 @@
 
 ## 🔄 Land Use Transitions
 **Sankey Diagram (2004–2014–2024):**  
-![](../sankey_transition.jpg)
+![](../figs/sankey_transition.jpg)
 
 - Vegetation and agriculture were the major sources of built-up growth.  
 - Bidirectional transitions observed between vegetation and agriculture.  
