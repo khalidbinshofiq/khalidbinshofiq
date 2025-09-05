@@ -11,7 +11,7 @@
 </div>
 <div style="font-family: Georgia, 'Times New Roman', Times, serif;">
 
-# Growth Pattern Analysis by MAximum Likelihood Supervised Classification
+# Growth Pattern Analysis by Maximum Likelihood Supervised Classification
 
 ## 🗺️ Land Cover Maps
 ![](../Figure_7.jpg)
@@ -30,10 +30,10 @@
 
 ## 📉 Change & Comparison Maps
 **Change Detection:**  
-![](../figs/change_maps.png)
+![](../change_maps.png)
 
 **Comparison of Actual vs Predicted (2024):**  
-![](../figs/comparison_2024.png)
+![](../comparison_2024.png)
 
 - Actual built-up: **2.22 km²**  
 - Predicted built-up: **2.48 km²** (well aligned, slight overestimation)  
