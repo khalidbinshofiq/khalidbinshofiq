@@ -8,3 +8,92 @@ To predict land use/land cover (LULC) changes for a small town in Bangladesh usi
 ...
 
 </div>
+<div style="font-family: Georgia, 'Times New Roman', Times, serif;">
+
+# Land Use Land Cover (LULC) Prediction (2004 → 2014 → 2024 → 2031)
+
+---
+
+## 🔑 Objective
+To analyze land cover change dynamics (2004–2024) and predict the future growth of **Kaliganj Municipality** for 2031 using a **ConvLSTM deep learning model**, integrating static drivers (DEM, distance-to-road).
+
+---
+
+## 🗺️ Land Cover Maps
+| 2004 | 2014 | 2024 |
+|------|------|------|
+| ![](../figs/lulc_2004.png) | ![](../figs/lulc_2014.png) | ![](../figs/lulc_2024.png) |
+
+---
+
+## 🔄 Land Use Transitions
+**Sankey Diagram (2004–2014–2024):**  
+![](../figs/sankey_transition.png)
+
+- Vegetation and agriculture were the major sources of built-up growth.  
+- Bidirectional transitions observed between vegetation and agriculture.  
+- Built-up areas increased from **0.88 km² (4.01%) in 2004 → 2.22 km² (10.07%) in 2024**.  
+
+---
+
+## 📉 Change & Comparison Maps
+**Change Detection:**  
+![](../figs/change_maps.png)
+
+**Comparison of Actual vs Predicted (2024):**  
+![](../figs/comparison_2024.png)
+
+- Actual built-up: **2.22 km²**  
+- Predicted built-up: **2.48 km²** (well aligned, slight overestimation)  
+
+---
+
+## 🔮 Prediction Maps
+**Predicted LULC (2031):**  
+![](../figs/prediction_2031.png)
+
+**Comparison with Master Plan (2031):**  
+![](../figs/comparison_masterplan.png)
+
+- Model forecasts built-up growth to **3.53 km² by 2031**.  
+- Some “urban deferred” zones in the master plan showed discrepancies with actual growth direction.  
+
+---
+
+## ⚠️ Uncertainty Analysis
+| Entropy Map | Uncertainty Map |
+|-------------|-----------------|
+| ![](../figs/uncertainty_entropy.png) | ![](../figs/uncertainty_simple.png) |
+
+- Low entropy & high confidence in **central built-up zones**.  
+- Higher uncertainty in transitional zones (vegetation/agriculture).  
+
+---
+
+## 🏗️ Model Architecture
+![](../figs/model_architecture.png)
+
+**ConvLSTM Setup**
+- Inputs: LULC (2004, 2014), DEM, Distance-to-road (patches 128×128)  
+- Layers: 2 × ConvLSTM2D (filters: 32, 64), batch norm, dropout, up/down-sampling  
+- Loss: Categorical Cross-Entropy, Optimizer: Adam (lr=0.0001)  
+- Metrics: Overall Accuracy (65%), F1 Score (66%), QADI (0.09–0.13)  
+
+---
+
+## 📌 Key Findings
+- Built-up growth followed a **linear, road-oriented pattern** (N7 highway, Chitra river).  
+- **Vegetation decreased** (30.04% → 23.31%), while agriculture remained mostly stable.  
+- **Waterbodies** declined from 1.74 km² (2014) → 0.81 km² (2024), reflecting weak enforcement of conservation policies.  
+- ConvLSTM predictions aligned closely with actual 2024 LULC, outperforming CA–ANN.  
+- **Uncertainty analysis** confirmed reliable classification in central urban zones.  
+- Master plan (2031) projections did not fully capture growth in “deferred” areas.  
+
+---
+
+## 📖 Takeaways
+- ConvLSTM provides a robust framework for **predicting small-town urban growth** using freely available imagery.  
+- Results highlight the **importance of integrating ML/DL with planning** to reduce reliance on outdated population-based projections.  
+- Findings can guide **policy-makers** in revising master plans and adopting **evidence-based zoning** for sustainable development.  
+
+</div>
