@@ -38,6 +38,17 @@
 
 ---
 
+
+## 🏗️ Model Architecture
+![](../model_architecture.jpg)
+
+**ConvLSTM Setup**
+- Inputs: LULC (2004, 2014), DEM, Distance-to-road (patches 128×128)  
+- Layers: 2 × ConvLSTM2D (filters: 32, 64), batch norm, dropout, up/down-sampling  
+- Loss: Categorical Cross-Entropy, Optimizer: Adam (lr=0.0001)  
+- Metrics: Overall Accuracy (65%), F1 Score (66%), QADI (0.09–0.13)  
+
+---
 ## 🔮 Prediction Maps
 **Predicted LULC (2031):**  
 ![](../figs/prediction_2031.png)
@@ -60,16 +71,6 @@
 
 ---
 
-## 🏗️ Model Architecture
-![](../figs/model_architecture.png)
-
-**ConvLSTM Setup**
-- Inputs: LULC (2004, 2014), DEM, Distance-to-road (patches 128×128)  
-- Layers: 2 × ConvLSTM2D (filters: 32, 64), batch norm, dropout, up/down-sampling  
-- Loss: Categorical Cross-Entropy, Optimizer: Adam (lr=0.0001)  
-- Metrics: Overall Accuracy (65%), F1 Score (66%), QADI (0.09–0.13)  
-
----
 
 ## 📌 Key Findings
 - Built-up growth followed a **linear, road-oriented pattern** (N7 highway, Chitra river).  
