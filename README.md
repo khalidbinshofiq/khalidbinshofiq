@@ -2,7 +2,7 @@
 
 # Khalid-Bin-Shofiq  
 
-Urban & Regional Planner (BUET) · MSc in Transportation Planning  
+Urban & Regional Planner (BUET) 
 
 ---
 
