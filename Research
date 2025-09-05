@@ -1,0 +1,37 @@
+research/LULC_Prediction.md
+<div style="font-family: Georgia, 'Times New Roman', Times, serif;">
+
+# LULC Prediction (2004 → 2014 → 2024 → 2031)
+
+---
+
+## 🔑 Objective
+To predict land use/land cover (LULC) changes for a small town in Bangladesh using a **ConvLSTM deep learning model** with static drivers (DEM, distance-to-road).  
+
+---
+
+## 📊 Key Figures
+
+| Built-up Growth (2004–2024) | ConvLSTM Architecture |
+|-----------------------------|-----------------------|
+| ![](../figs/builtup_trend.png) | ![](../figs/model_architecture.png) |
+
+---
+
+## 📈 Key Findings
+- Built-up area increased from **4.01% → 10.07%** (2004–2024).  
+- Growth concentrated along **road networks**, with decline in vegetation & waterbody.  
+- ConvLSTM achieved:  
+  - **Overall Accuracy:** 65%  
+  - **F1 Score:** 66%  
+  - **QADI Index:** 0.17  
+
+---
+
+## ⚙️ Model Architecture (Simplified)
+```text
+Input: LULC_2004, LULC_2014, Drivers (DEM, Distance-to-road)
+   ↓ Patchify (128×128)
+   ↓ ConvLSTM (stacked layers)
+   ↓ Dense + Softmax
+Output: Predicted LULC (2024, 2031)
