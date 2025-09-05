@@ -20,7 +20,7 @@ To analyze land cover change dynamics (2004–2024) and predict the future growt
 ---
 
 ## 🗺️ Land Cover Maps
-![](../figs/Figure_7.jpg)
+![](../Figure_7.jpg)
 
 ---
 
