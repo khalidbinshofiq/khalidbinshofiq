@@ -17,7 +17,7 @@ Urban & Regional Planner (BUET)
 ---
 
 ## 📂 Selected Research
-- [**LULC Prediction (2004 → 2014 → 2024 → 2031)**](research/LULC_Prediction.md)  
+- [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md)  
 
 *(Click a title to view full details)*  
 
