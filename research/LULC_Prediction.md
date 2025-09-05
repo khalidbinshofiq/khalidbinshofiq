@@ -1,23 +1,17 @@
 <div style="font-family: Georgia, 'Times New Roman', Times, serif;">
 
-# LULC Prediction (2004 → 2014 → 2024 → 2031)
+# Framework for Predicting Urban Growth Pattern in Data Scarce Region
 
 ## 🔑 Objective
-To predict land use/land cover (LULC) changes for a small town in Bangladesh using a ConvLSTM model with static drivers (DEM, distance-to-road).
+1. To predict land use/land cover (LULC) changes of a municipality in Bangladesh using a ConvLSTM model with static drivers (DEM, distance-to-road).
+2. Comparison of the Predicted Growth with the proposals of Municipalitie's master plan.
 
 ...
 
 </div>
 <div style="font-family: Georgia, 'Times New Roman', Times, serif;">
 
-# Land Use Land Cover (LULC) Prediction (2004 → 2014 → 2024 → 2031)
-
----
-
-## 🔑 Objective
-To analyze land cover change dynamics (2004–2024) and predict the future growth of **Kaliganj Municipality** for 2031 using a **ConvLSTM deep learning model**, integrating static drivers (DEM, distance-to-road).
-
----
+# Growth Pattern Analysis by MAximum Likelihood Supervised Classification
 
 ## 🗺️ Land Cover Maps
 ![](../Figure_7.jpg)
