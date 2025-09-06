@@ -16,10 +16,19 @@ Urban & Regional Planner (BUET)
 
 ---
 
-## 📂 Selected Research
+## 📂 Current Research
 - [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md)  
 
 *(Click a title to view full details)*  
+
+---
+
+## 📘 Academic Projects
+- [**Resilient River Basin Planning – Jamuna River (Landscape Studio, BUET)**](projects/Jamuna_River_Planning.md)  
+- [**Service Area Analysis of Primary Schools (ArcPy Network Analysis)**](projects/School_Accessibility.md)  
+- [**Coastal District Vulnerability Mapping – Bangladesh**](projects/Coastal_Vulnerability.md)  
+
+*(Each project file can include summary, maps, and key learnings)*  
 
 ---
 
@@ -33,3 +42,4 @@ ArcMap · ArcGIS Pro · QGIS · Google Colab · Python (TensorFlow, Keras, Panda
 🔗 [GitHub Profile](https://github.com/khalidbinshofiq)  
 
 </div>
+
