@@ -23,13 +23,19 @@ Urban & Regional Planner (BUET)
 
 ---
 
-## 📘 Academic Projects
-- [**Resilient River Basin Planning – Jamuna River (Landscape Studio, BUET)**](projects/Jamuna_River_Planning.md)  
-- [**Service Area Analysis of Primary Schools (ArcPy Network Analysis)**](projects/School_Accessibility.md)  
-- [**Coastal District Vulnerability Mapping – Bangladesh**](projects/Coastal_Vulnerability.md)  
-
-*(Each project file can include summary, maps, and key learnings)*  
-
+## 📘 Academic Projects  
+- <a href="Academic/Participatory.md">Participatory Planning Studio</a> ↗ <br>
+- <a href="Academic/Project/project.md">Project Planning Studio</a> ↗ <br>
+- <a href="Academic/Transportation/Transportation.md">Transportation Planning Studio</a> ↗ <br>
+- <a href="Academic/Regional/Regional.md">Regional Planning Studio</a> ↗ <br>
+- <a href="Academic/Rural/Rural.md">Rural Planning Studio</a> ↗ <br>
+- <a href="Academic/Program/Program.md">Programming Studio</a> ↗ <br>
+- <a href="Academic/GIS/GIS.md">GIS and Remote Sensing Studio</a> ↗ <br>
+- <a href="Academic/Urban/Urban.md">Urban Planning Studio</a> ↗ <br>
+- <a href="Academic/Landscape/Landscape.md">Landscape Planning Studio</a> ↗ <br>
+- <a href="Academic/Site/Site.md">Site and Area Planning Studio</a> ↗ <br>
+- <a href="Academic/Social/Social.md">Social and Physical Surveys</a> ↗ <br>
+- <a href="Academic/Carto/Carto.md">Surveying and Cartography Workshop</a> ↗ <br>
 ---
 
 ## 🔧 Tools & Platforms
