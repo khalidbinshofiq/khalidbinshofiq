@@ -66,8 +66,10 @@
 [![Project Presentation](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Presentation.pdf)
 [![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Report.pdf) <br>
 
-- **Field Survey - December 7, 2023**  
+<details>
+  <summary><b> Field Survey - December 7, 2023 </b> </summary>
   <p align="left">
     <img src="./Picture9.png" alt="Study Area" width="90%">
   </p>
+  </details>
 
