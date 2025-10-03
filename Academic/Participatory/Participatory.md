@@ -78,7 +78,7 @@
   <br>
   
 <details>
-  <summary> <b>🧾 Major Findings </b>- <i>◀️click to view</i> </summary>
+  <summary> <b>💡 Major Findings </b>- <i>click to view</i> </summary>
 
 📍 **Location:**
   - **Advantages:** Steady demand from nearby households; little congestion or pedestrian conflict.
