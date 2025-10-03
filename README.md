@@ -19,12 +19,12 @@ Urban & Regional Planner (BUET)
 ## 📂 Current Research
 - [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md)  
 
-*(Click a title to view full details)*  
+<sub>*( Click the title to view full details)*</sub>
 
 ---
 
 ## 📘 Academic Projects  
-- <a href="Academic/Participatory.md">Participatory Planning Studio</a> ↗ <br>
+- <a href="Academic/Participatory/Participatory.md">Participatory Planning Studio</a> ↗ <br>
 - <a href="Academic/Project/project.md">Project Planning Studio</a> ↗ <br>
 - <a href="Academic/Transportation/Transportation.md">Transportation Planning Studio</a> ↗ <br>
 - <a href="Academic/Regional/Regional.md">Regional Planning Studio</a> ↗ <br>
