@@ -35,7 +35,7 @@ Urban & Regional Planner (BUET)
 - <a href="Academic/Landscape/Landscape.md">Landscape Planning Studio</a> ↗ <br>
 - <a href="Academic/Site/Site.md">Site and Area Planning Studio</a> ↗ <br>
 - <a href="Academic/Social/Social.md">Social and Physical Surveys</a> ↗ <br>
-- <a href="Academic/Carto/Carto.md">Surveying and Cartography Workshop</a> ↗ <br>
+- <a href="Academic/Carto/Carto.md">Cartography Workshop</a> ↗ <br>
 ---
 
 ## 🔧 Tools & Platforms
