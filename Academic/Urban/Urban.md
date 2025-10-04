@@ -5,7 +5,6 @@
 **🎯 Objective** 
 1. To explore the land use pattern and socioeconomic context in surround areas of Agargaon MRT station. 
 2. To propose a land use plan compatible with the MRT station in the study area.  
-<br>
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](mrt2.pdf) <br>
 <br>
@@ -66,7 +65,6 @@
 **🎯 Objective** 
 1. To review DAP strategy in consideration of structure plan proposal.
 2. To identify the potentials of slum upgradation in the proposed location in DAP.
-<br>
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](Slum.pdf) <br>
 <br>
