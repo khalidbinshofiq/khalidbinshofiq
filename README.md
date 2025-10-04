@@ -21,9 +21,7 @@ Urban & Regional Planner (BUET)
 
 
 ## 📂 Current Research
-- [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md)  
-
-<i>(🔼Click the title to view full details)*</i>
+- [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md) ↗
 
 ---
 
