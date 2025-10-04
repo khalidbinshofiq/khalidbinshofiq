@@ -18,7 +18,7 @@ Urban & Regional Planner (BUET)
 
 ## 💡 Recent Projects 
 - <a href="research/bathy.md">3D Bangladesh Terrain and Bathymetry</a> ↗ <br>
----
+
 
 ## 📂 Current Research
 - [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md)  
