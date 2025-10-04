@@ -25,7 +25,7 @@ Urban & Regional Planner (BUET)
 
 ## 📘 Academic Projects  
 - <a href="Academic/Participatory/Participatory.md">Participatory Planning Studio</a> ↗ <br>
-- <a href="Academic/Project/project.md">Project Planning Studio</a> ↗ <br>
+- <a href="Academic/Project/Project.md">Project Planning Studio</a> ↗ <br>
 - <a href="Academic/Transportation/Transportation.md">Transportation Planning Studio</a> ↗ <br>
 - <a href="Academic/Regional/Regional.md">Regional Planning Studio</a> ↗ <br>
 - <a href="Academic/Rural/Rural.md">Rural Planning Studio</a> ↗ <br>
