@@ -58,7 +58,7 @@
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](mrt2.pdf) <br>
 <br>
-[![shitft](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](mrt.pdf) <br>
+
 
 ## <i>**📘 Project:** Potentials of slum improvement in proposed low-income settlements in DAP</i> <br>
 
