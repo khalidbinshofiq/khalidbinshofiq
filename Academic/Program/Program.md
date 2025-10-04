@@ -10,9 +10,7 @@ The last phase of the 4-step travel demand model that allocates **OD trips** to 
   <p align="left">
     <img src="./Picture7.jpg" alt="Social and Resource Map" width="70%">
   </p>
-
-## 📊 Results
-    <p align="left">
+  <p align="left">
     <img src="./Picture9.jpg" alt="Social and Resource Map" width="70%">
   </p>
     <p align="left">
