@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-    <img src="./3.jpg" alt="Social and Resource Map" width="100%">
+    <img src="./3.jpg" alt="Social and Resource Map" width="70%">
 </p>
 
 <p align="left">
-    <img src="./4.jpg" alt="Social and Resource Map" width="100%">
+    <img src="./4.jpg" alt="Social and Resource Map" width="70%">
 </p>
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](presentation.pdf) <br>
