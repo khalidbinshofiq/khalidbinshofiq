@@ -6,6 +6,8 @@ Before initiating any rural development program to fulfill rural people’s need
 </p>
 <br>
 
+[![332](https://img.shields.io/static/v1?label=Full%20Article&message=%20&color=0A66C2&style=for-the-badge)](Report.pdf) <br>
+
 ## 📈 Results
 
 <p align="left">
@@ -25,4 +27,4 @@ Before initiating any rural development program to fulfill rural people’s need
   </p>
   <br>
   
-[![332](https://img.shields.io/static/v1?label=Full%20Article&message=%20&color=0A66C2&style=for-the-badge)](Report.pdf) <br>
+
