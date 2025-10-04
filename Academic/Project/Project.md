@@ -33,4 +33,9 @@
     <img src="./2.jpg" alt="Social and Resource Map" width="80%">
   </p>
 
+- **Project Framework**
+  <p align="left">
+    <img src="./3.jpg" alt="Social and Resource Map" width="80%">
+  </p>
+
 [![Concept Note](https://img.shields.io/static/v1?label=Development%20Project%20Proposal&message=%20&color=E74C3C&style=for-the-badge)](DPP.pdf)<br>
