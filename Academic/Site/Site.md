@@ -1,4 +1,6 @@
-## <i>**📘 Project:** Neighborhood Plan of an Residential Area. </i> <br>
+## <i>**📘 Project:** Preparation Neighborhood Plan of an Residential Area. </i> <br>
+**Proeject Type:** Design Project
+<br>
 <p align="left">
     <img src="./1.jpg" alt="Social and Resource Map" width="100%">
 </p>
