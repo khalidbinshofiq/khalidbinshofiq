@@ -33,7 +33,7 @@
     <img src="./2.jpg" alt="Social and Resource Map" width="80%">
   </p>
 
-- **Project Framework**
+- **Project Logical Framework**
   <p align="left">
     <img src="./3.jpg" alt="Social and Resource Map" width="120%">
   </p>
