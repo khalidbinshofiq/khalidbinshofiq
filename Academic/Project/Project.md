@@ -23,7 +23,7 @@
 
 ## <i>**Project 4:** Preparation of Development Project Proposal</i><br>
 - **Title:**  Construction of New Railway Corridor from Bhanga to Kuakata Connecting Payra Port. <br>
-
+[![Concept Note](https://img.shields.io/static/v1?label=Development%20Project%20Proposal&message=%20&color=E74C3C&style=for-the-badge)](DPP.pdf)<br>
 - **Project Location**
   <p align="left">
     <img src="./2.jpg" alt="Social and Resource Map" width="80%">
@@ -34,4 +34,4 @@
     <img src="./3.jpg" alt="Social and Resource Map" width="120%">
   </p>
 
-[![Concept Note](https://img.shields.io/static/v1?label=Development%20Project%20Proposal&message=%20&color=E74C3C&style=for-the-badge)](DPP.pdf)<br>
+
