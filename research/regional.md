@@ -4,5 +4,67 @@
 
 - **Selected Factors**
  <p align="left">
-    <img src="./1.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./1.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+ <p align="left">
+    <img src="./2.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+ <p align="left">
+    <img src="./3.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+  <p align="left">
+    <img src="./4.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+  <p align="left">
+    <img src="./5.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+  <p align="left">
+    <img src="./6.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+  <p align="left">
+    <img src="./7.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+  <p align="left">
+    <img src="./8.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+  <p align="left">
+    <img src="./9.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+   <p align="left">
+    <img src="./10.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+- **Sampling Points**
+
+  <p align="left">
+    <img src="./11.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+- **Urban Density Change**
+
+ <p align="left">
+    <img src="./12.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+ <p align="left">
+    <img src="./13.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+ <p align="left">
+    <img src="./14.png" alt="Social and Resource Map" width="70%">
+  </p>
+
+- **Model Outcome**
+
+ <p align="left">
+    <img src="./16.jpg" alt="Social and Resource Map" width="70%">
   </p>
