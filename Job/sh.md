@@ -17,8 +17,7 @@
 ### 👥 Workshop
 
 - **🚦 Promoting Road Safety through Data-Driven Planning & Community Engagement**
-
-**Organizer & Presenter** — Road Safety Workshop (Location: Fakirhat Upazila, Bagerhat District, Bangladesh)
+**Location:** Fakirhat Upazila, Bagerhat District, Bangladesh)
 **Project:** Upazila Town Master Plan & Basic Infrastructure Development
 
 **Purpose**
@@ -27,7 +26,8 @@
 - Identify **accident-prone locations (black spots)**  
 - Co-design **road safety improvements**
 
-**My Responsibility**
+**My Roles:** Organizer & Presenter
+**Responsibilities**
 - Led workshop design and facilitation; co-presented with **Prof. Dr. Md. Shahid Mamun (Transport Expert)**  
 - Supervised field teams during November data collection (10 survey types):**TCS, PCS, OD, PTPS, PIS, Parking, Train Station, Transport Inventory, Speed–Delay, Black-spot mapping**  
 - Integrated survey results with community inputs to inform the master plan
