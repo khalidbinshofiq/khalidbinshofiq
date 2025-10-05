@@ -15,10 +15,9 @@
 ---
 
 ### 👥 Workshop
-
 - **🚦 Promoting Road Safety through Data-Driven Planning & Community Engagement** <br>
-**Location:** Fakirhat Upazila, Bagerhat District, Bangladesh) <br>
-**Project:** Upazila Town Master Plan & Basic Infrastructure Development <br>
+- **Location:** Fakirhat Upazila, Bagerhat District, Bangladesh) <br>
+- **Project:** Upazila Town Master Plan & Basic Infrastructure Development <br>
 
 **Purpose**
 - Share findings from recent transport surveys  
