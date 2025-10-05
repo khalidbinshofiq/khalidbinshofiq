@@ -41,7 +41,7 @@
 
 - **Model Outcome**
  <p align="center">
-    <img src="./16.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./16.jpg" alt="Social and Resource Map" width="120%">
   </p>
 
  - **K-Means Cluster**
