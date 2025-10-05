@@ -17,7 +17,8 @@ Urban & Regional Planner (BUET)
 ---
 
 ## 💡 Recent Projects 
-[![3D Bangladesh Terrain and Bathymetry](https://raw.githubusercontent.com/khalidbinshofiq/khalidbinshofiq/main/screenshot.png)](https://khalidbinshofiq.github.io/khalidbinshofiq/)
+- [3D Bangladesh Terrain and Bathymetry 🌍](https://khalidbinshofiq.github.io/khalidbinshofiq/)
+
 
 
 ## 📂 Current Research
