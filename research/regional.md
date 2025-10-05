@@ -25,7 +25,7 @@
 
 - **Sampling Points**
 
-  <p align="left">
+  <p align="center">
     <img src="./11.png" alt="Social and Resource Map" width="50%">
   </p>
 
@@ -35,12 +35,12 @@
     <img src="./12.png" alt="Social and Resource Map" width="40%"><img src="./13.png" alt="Social and Resource Map" width="40%">
   </p>
 
- <p align="left">
+ <p align="center">
     <img src="./14.png" alt="Social and Resource Map" width="50%">
   </p>
 
 - **Model Outcome**
 
- <p align="left">
+ <p align="center">
     <img src="./16.jpg" alt="Social and Resource Map" width="70%">
   </p>
