@@ -23,7 +23,7 @@ Urban & Regional Planner (BUET)
 
 ## 📂 Current Research
 - [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md) ↗
-- [**Exploring the Influence of Potential Factors of Urban Change in Bangladesh.**](research/Regional.md) ↗
+- [**Exploring the Influence of Potential Factors of Urban Change in Bangladesh.**](research/regional.md) ↗
 
 ---
 
