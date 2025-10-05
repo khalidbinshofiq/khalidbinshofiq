@@ -39,7 +39,7 @@ Urban & Regional Planner (BUET)
 
 ---
 
-## 💼 Professional Experinece
+## 💼 Professional Experience
 - <a href="Job/sh.md"><i>Assistant Urban Planner - Sheltech Consultants (Pvt.) Ltd. </i></a> ↗
 
 
