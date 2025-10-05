@@ -12,7 +12,9 @@
 ▪ Help **drafting master plans, infrastructure proposals, and policy recommendations.** <br>
 ▪ Strengthen skills in spatial analysis, research, and multidisciplinary collaboration. <br>
 
-## 👥 Workshop
+---
+
+### 👥 Workshop
 
 - **🚦 Promoting Road Safety through Data-Driven Planning & Community Engagement**
 
