@@ -35,12 +35,20 @@
     <img src="./12.png" alt="Social and Resource Map" width="40%"><img src="./13.png" alt="Social and Resource Map" width="40%">
   </p>
 
- <p align="center">
-    <img src="./14.png" alt="Social and Resource Map" width="50%">
+ <p align="left">
+    <img src="./14.png" alt="Social and Resource Map" width="60%">
   </p>
 
 - **Model Outcome**
-
  <p align="center">
     <img src="./16.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
+ - **K-Means Cluster**
+ <p align="center">
+    <img src="./1.jpg" alt="Social and Resource Map" width="40%"><img src="./2.jpg" alt="Social and Resource Map" width="40%"><img src="./3.jpg" alt="Social and Resource Map" width="40%">
+  </p>
+  
+ <p align="center">
+    <img src="./4.jpg" alt="Social and Resource Map" width="70%">
   </p>
