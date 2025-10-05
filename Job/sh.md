@@ -8,6 +8,7 @@
 
 **📋Key Reponsibilities** <br>
 
+▪ Currently working on "Upazila Town (Non-Municipal) Master Plan Preparation and Basic Infrastructure Development Project" funded by GoB (Government of Bangladesh).<br>
 ▪ Support **urban and regional planning projects** through **field surveys, data analysis, and technical reporting**.<br> 
 ▪ Assist in **preparing maps and planning documents** using GIS and design tools. <br>
 ▪ Collaborate with senior planners, engineers, and local authorities to ensure compliance and inclusivity in planning. <br>
