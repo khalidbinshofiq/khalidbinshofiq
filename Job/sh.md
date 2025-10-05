@@ -38,11 +38,6 @@
 **Participants**
 - **UNO (Upazila Nirbahi Officer)**, Deputy Team Leader, govt officials, transport operators, and project consultants
 
-**Impact**
-- Evidence-based shortlist of **priority safety interventions** (engineering, enforcement, education)  
-- Stakeholder-validated **core road network** for the master plan  
-- Strengthened local ownership through participatory planning
-
 <p align="center">
   <img src="1.jpeg" width="50%"/>
   <img src="2.jpeg" width="40%"/>
