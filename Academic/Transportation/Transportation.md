@@ -105,24 +105,24 @@
 
 - **Highway Condition: Dhaka-Rajshahi Route**
   <p align="left">
-    <img src="./Picture9.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./1.png" alt="Social and Resource Map" width="70%">
   </p>
    <p align="left">
-    <img src="./Picture10.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./2.png" alt="Social and Resource Map" width="70%">
   </p>
    <p align="left">
-    <img src="./Picture010.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./3.png" alt="Social and Resource Map" width="70%">
   </p>
 
 - **Highway Condition: Dhaka-Bogura Route**
   <p align="left">
-    <img src="./Picture11.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./4.png" alt="Social and Resource Map" width="70%">
   </p>
    <p align="left">
-    <img src="./Picture12.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./5.png" alt="Social and Resource Map" width="70%">
   </p>
    <p align="left">
-    <img src="./Picture012.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./6.png" alt="Social and Resource Map" width="70%">
   </p>
 
 [![Highway](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=0A66C2&style=for-the-badge)](highway.pdf) <br>
