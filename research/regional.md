@@ -46,9 +46,9 @@
 
  - **K-Means Cluster**
  <p align="center">
-    <img src="./01.jpg" alt="Social and Resource Map" width="40%"><img src="./02.jpg" alt="Social and Resource Map" width="40%"><img src="./03.jpg" alt="Social and Resource Map" width="40%">
+    <img src="./01.png" alt="Social and Resource Map" width="40%"><img src="./02.png" alt="Social and Resource Map" width="40%"><img src="./03.png" alt="Social and Resource Map" width="40%">
   </p>
   
  <p align="center">
-    <img src="./04.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./04.png" alt="Social and Resource Map" width="70%">
   </p>
