@@ -2,7 +2,7 @@
 
 **🏢 Organization** - <a href="https://www.scplbd.com/" target="_blank">Sheltech Consultants (Pvt.) Ltd.</a><br>
 
-📍 Dhaka, Bangladesh · 🗓️ October 2024 – Present</summary>
+🗓️ October 2024 – Present
 
 **📋Key Reponsibilities** <br>
 ▪ Support **urban and regional planning projects** through **field surveys, data analysis, and technical reporting**.<br> 
