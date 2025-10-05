@@ -21,9 +21,10 @@
 - **🚦 Promoting Road Safety through Data-Driven Planning & Community Engagement** <br>
 <p align="center">
   <img src="1.jpeg" width="50%"/>
-  <img src="2.jpeg" width="40%"/>
+  <img src="2.jpeg" width="50%"/>
   <img src="3.jpeg" width="50%"/>
 </p>
+
 - **Location:** Fakirhat Upazila, Bagerhat District, Bangladesh <br>
 - **Project:** Upazila Town Master Plan & Basic Infrastructure Development <br>
 
