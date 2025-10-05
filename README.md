@@ -17,12 +17,13 @@ Urban & Regional Planner (BUET)
 ---
 
 ## 💡 Recent Projects 
-- [3D Bangladesh Terrain and Bathymetry 🌍](https://khalidbinshofiq.github.io/khalidbinshofiq/)
+- [**3D Bangladesh Terrain and Bathymetry 🌍**](https://khalidbinshofiq.github.io/khalidbinshofiq/)
 
 
 
 ## 📂 Current Research
 - [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md) ↗
+- [**Exploring the Influence of Potential Factors of Urban Change in Bangladesh.**](research/Regional.md) ↗
 
 ---
 
