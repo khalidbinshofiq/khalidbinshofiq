@@ -20,7 +20,7 @@
 ### 👥 Workshop
 - **🚦 Promoting Road Safety through Data-Driven Planning & Community Engagement** <br>
 <p align="center">
-  <img src="1.jpeg" width="40%"/><img src="3.jpeg" width="40%"/>
+  <img src="1.jpeg" width="40%"/><img src="3.jpeg" width="42%"/>
   <img src="2.jpeg" width="40%"/>
 </p>
 
