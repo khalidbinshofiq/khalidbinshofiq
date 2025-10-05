@@ -1,1 +1,45 @@
+**💼 Designation** - Assistant Urban Planner <br>
 
+**🏢 Organization** - <a href="https://www.scplbd.com/" target="_blank">Sheltech Consultants (Pvt.) Ltd.</a><br>
+
+📍 Dhaka, Bangladesh · 🗓️ October 2024 – Present</summary>
+
+📋Key Reponsibilities <br>
+▪ Support **urban and regional planning projects** through **field surveys, data analysis, and technical reporting**. 
+▪ Assist in **preparing maps and planning documents** using GIS and design tools. 
+▪ Collaborate with senior planners, engineers, and local authorities to ensure compliance and inclusivity in planning. 
+▪ Contribute to organizing **stakeholder consultations, workshops, and community engagement sessions.**
+▪ Help **drafting master plans, infrastructure proposals, and policy recommendations.** 
+▪ Strengthen skills in spatial analysis, research, and multidisciplinary collaboration.
+
+## 👥 Workshop
+
+- **🚦 Promoting Road Safety through Data-Driven Planning & Community Engagement**
+
+**Organizer & Presenter** — Road Safety Workshop (Location: Fakirhat Upazila, Bagerhat District, Bangladesh)
+**Project:** Upazila Town Master Plan & Basic Infrastructure Development
+
+**Purpose**
+- Share findings from recent transport surveys  
+- Validate the **core road network** with stakeholders  
+- Identify **accident-prone locations (black spots)**  
+- Co-design **road safety improvements**
+
+**My Responsibility**
+- Led workshop design and facilitation; co-presented with **Prof. Dr. Md. Shahid Mamun (Transport Expert)**  
+- Supervised field teams during November data collection (10 survey types):**TCS, PCS, OD, PTPS, PIS, Parking, Train Station, Transport Inventory, Speed–Delay, Black-spot mapping**  
+- Integrated survey results with community inputs to inform the master plan
+
+**Participants**
+- **UNO (Upazila Nirbahi Officer)**, Deputy Team Leader, govt officials, transport operators, and project consultants
+
+**Impact**
+- Evidence-based shortlist of **priority safety interventions** (engineering, enforcement, education)  
+- Stakeholder-validated **core road network** for the master plan  
+- Strengthened local ownership through participatory planning
+
+<p align="center">
+  <img src="1.jpg" width="30%"/>
+  <img src="2.jpg" width="30%"/>
+  <img src="3.jpg" width="30%"/>
+</p>
