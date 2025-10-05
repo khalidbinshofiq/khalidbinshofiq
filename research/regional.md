@@ -49,6 +49,7 @@
     <img src="./01.png" alt="Social and Resource Map" width="40%"><img src="./02.png" alt="Social and Resource Map" width="40%"><img src="./03.png" alt="Social and Resource Map" width="40%">
   </p>
   
+ - **Seaborn Pairplot**
  <p align="center">
     <img src="./04.png" alt="Social and Resource Map" width="150%">
   </p>
