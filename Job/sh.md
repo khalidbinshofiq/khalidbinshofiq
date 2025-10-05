@@ -4,13 +4,13 @@
 
 📍 Dhaka, Bangladesh · 🗓️ October 2024 – Present</summary>
 
-📋Key Reponsibilities <br>
-▪ Support **urban and regional planning projects** through **field surveys, data analysis, and technical reporting**. 
-▪ Assist in **preparing maps and planning documents** using GIS and design tools. 
-▪ Collaborate with senior planners, engineers, and local authorities to ensure compliance and inclusivity in planning. 
-▪ Contribute to organizing **stakeholder consultations, workshops, and community engagement sessions.**
-▪ Help **drafting master plans, infrastructure proposals, and policy recommendations.** 
-▪ Strengthen skills in spatial analysis, research, and multidisciplinary collaboration.
+**📋Key Reponsibilities** <br>
+▪ Support **urban and regional planning projects** through **field surveys, data analysis, and technical reporting**.<br> 
+▪ Assist in **preparing maps and planning documents** using GIS and design tools. <br>
+▪ Collaborate with senior planners, engineers, and local authorities to ensure compliance and inclusivity in planning. <br>
+▪ Contribute to organizing **stakeholder consultations, workshops, and community engagement sessions.** <br>
+▪ Help **drafting master plans, infrastructure proposals, and policy recommendations.** <br>
+▪ Strengthen skills in spatial analysis, research, and multidisciplinary collaboration. <br>
 
 ## 👥 Workshop
 
