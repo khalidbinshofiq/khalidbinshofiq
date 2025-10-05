@@ -61,8 +61,8 @@ Urban & Regional Planner (BUET)
 ---
 
 ## 📫 Contact
-📧 khalidbinshofiq29@gmail.com  
-🔗 [GitHub Profile](https://github.com/khalidbinshofiq)  
+📧 Email: khalidbinshofiq29@gmail.com  
+🔗 LinkedIn Profile:  
 
 </div>
 
