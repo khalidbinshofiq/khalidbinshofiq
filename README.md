@@ -14,8 +14,6 @@ Urban & Regional Planner (BUET)
 - Spatial analysis & land use planning  
 - Qualitative & policy-oriented urban research  
 
----
-
 ## 💡 Recent Projects 
 - [**3D Bangladesh Terrain and Bathymetry 🌍**](https://khalidbinshofiq.github.io/khalidbinshofiq/)
 - [**3D Flood Simulation 🌊**](https://drive.google.com/file/d/1-YVh3saNmY9x3E0jgSx83rYcvYmydEM0/view?usp=drive_link)
@@ -24,8 +22,6 @@ Urban & Regional Planner (BUET)
 ## 📂 Current Research
 - [**Framework for Predicting Urban Growth Pattern in Data Scarce Region**](research/LULC_Prediction.md) ↗
 - [**Exploring the Influence of Potential Factors of Urban Change in Bangladesh.**](research/regional.md) ↗
-
----
 
 ## 📘 Academic Projects  
 - <a href="Academic/Participatory/Participatory.md">Participatory Planning Studio</a> ↗ <br>
@@ -40,9 +36,11 @@ Urban & Regional Planner (BUET)
 - <a href="Academic/Site/Site.md">Site and Area Planning Studio</a> ↗ <br>
 - <a href="Academic/Social/Social.md">Social and Physical Surveys</a> ↗ <br>
 - <a href="Academic/Carto/Carto.md">Cartography Workshop</a> ↗ <br>
+
 ---
 
 ## 💼 Professional Experinece
+- <a href="Job/sh.md"><i>Assistant Urban Planner - Sheltech Consultants (Pvt.) Ltd. </i></a> ↗
 
 
 ## 🔧 Tools & Platforms
