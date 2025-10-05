@@ -41,7 +41,7 @@
 - Strengthened local ownership through participatory planning
 
 <p align="center">
-  <img src="1.jpg" width="30%"/>
-  <img src="2.jpg" width="30%"/>
-  <img src="3.jpg" width="30%"/>
+  <img src="1.jpeg" width="30%"/>
+  <img src="2.jpeg" width="30%"/>
+  <img src="3.jpeg" width="30%"/>
 </p>
