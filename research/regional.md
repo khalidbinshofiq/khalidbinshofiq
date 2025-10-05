@@ -3,7 +3,7 @@
 
 - **💡Selected Factors**
  <p align="left">
-    <img src="./1.png" alt="Social and Resource Map" width="50%">  <img src="./2.png" alt="Social and Resource Map" width="50%">
+    <img src="./1.png" alt="Social and Resource Map" width="50%"><img src="./2.png" alt="Social and Resource Map" width="50%">
   </p>
 
 
