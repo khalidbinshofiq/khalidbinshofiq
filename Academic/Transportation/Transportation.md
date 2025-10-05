@@ -1,66 +1,4 @@
-## <i>**Project 1:** Accessibility and Safety Audit for Persons with Disabilities at University Campus</i> <br>
-
-**🎯 Objective:** To systematically evaluate the university campus’s accessibility and safety for persons with disabilities against accessibity and safety indicators and applicable national codes. <br>
-
-- **Accessibility and Safety Audit - Survey Findings**
-<p align="left">
-<img src="./Picture1.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-  <p align="left">
-<img src="./Picture2.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-  <p align="left">
-    <img src="./Picture3.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-    <p align="left">
-    <img src="./Picture4.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-  <p align="left">
-    <img src="./Picture5.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-  <p align="left">
-    <img src="./Picture6.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-  <p align="left">
-    <img src="./Picture7.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-  
-[![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Presentation&message=%20&color=0A66C2&style=for-the-badge)](Audit.pdf) <br>
-
-[![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Indicators&message=%20&color=FFD700&style=for-the-badge)](Indicators.pdf) <br>
-<br>
-
-## <i>**Project 2:** Experience Trip and Mode Choices</i> <br>
-
-**🎯 Objective:** To assess mode availability and justify route-specific mode choices using indicators of accessibility, cost, and comfort/safety. <br>
-
-[![Trip](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=E74C3C&style=for-the-badge)](trip.pdf) <br>
-<br>
-
-## <i>**Project 3:** Highway Conditions during Eid Festivals in Bangladesh</i> <br>
-
-**🎯 Objective:** To observe highway traffic conditions during eid festivals using Google Map<br>
-
-- **Highway Condition: Dhaka-Manikganj Route**
-  <p align="left">
-    <img src="./Picture9.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-   <p align="left">
-    <img src="./Picture10.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-
-- **Highway Condition: Dhaka-Munshiganj Route**
-  <p align="left">
-    <img src="./Picture11.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-   <p align="left">
-    <img src="./Picture12.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-
-[![Highway](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=0A66C2&style=for-the-badge)](highway.pdf) <br>
-<br>
-
-## <i>**Project 4:** Traffic Impact Assessment of an Educational Institution in the Capital City of Bangladesh</i> <br>
+## <i>**Project:** Traffic Impact Assessment of an Educational Institution in the Capital City of Bangladesh</i> <br>
 
 **🎯 Objective:** To identify the impacts of establishing educational institutions on existing traffic conditionc<br>
 
@@ -121,3 +59,73 @@
 <br>
 [![tia](https://img.shields.io/static/v1?label=TIA%20Report&message=%20&color=E74C3C&style=for-the-badge)](TIAr.pdf) <br>
 <br>
+
+## <i>**Project:** Accessibility and Safety Audit for Persons with Disabilities at University Campus</i> <br>
+
+**🎯 Objective:** To systematically evaluate the university campus’s accessibility and safety for persons with disabilities against accessibity and safety indicators and applicable national codes. <br>
+
+- **Accessibility and Safety Audit - Survey Findings**
+<p align="left">
+<img src="./Picture1.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+<img src="./Picture2.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture3.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+    <p align="left">
+    <img src="./Picture4.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture5.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture6.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture7.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  
+[![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Presentation&message=%20&color=0A66C2&style=for-the-badge)](Audit.pdf) <br>
+
+[![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Indicators&message=%20&color=FFD700&style=for-the-badge)](Indicators.pdf) <br>
+<br>
+
+## <i>**Project:** Experience Trip and Mode Choices</i> <br>
+
+**🎯 Objective:** To assess mode availability and justify route-specific mode choices using indicators of accessibility, cost, and comfort/safety. <br>
+
+[![Trip](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=E74C3C&style=for-the-badge)](trip.pdf) <br>
+<br>
+
+## <i>**Project:** Highway Conditions during Eid Festivals in Bangladesh</i> <br>
+
+**🎯 Objective:** To observe highway traffic conditions during eid festivals using Google Map<br>
+
+- **Highway Condition: Dhaka-Rajshahi Route**
+  <p align="left">
+    <img src="./Picture9.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+   <p align="left">
+    <img src="./Picture10.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+   <p align="left">
+    <img src="./Picture010.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
+- **Highway Condition: Dhaka-Bogura Route**
+  <p align="left">
+    <img src="./Picture11.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+   <p align="left">
+    <img src="./Picture12.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+   <p align="left">
+    <img src="./Picture012.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
+[![Highway](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=0A66C2&style=for-the-badge)](highway.pdf) <br>
+<br>
+
+
