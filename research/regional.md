@@ -25,7 +25,7 @@
 
 - **Sampling Points**
 
-  <p align="center">
+  <p align="left">
     <img src="./11.png" alt="Social and Resource Map" width="50%">
   </p>
 
