@@ -50,5 +50,5 @@
   </p>
   
  <p align="center">
-    <img src="./04.png" alt="Social and Resource Map" width="70%">
+    <img src="./04.png" alt="Social and Resource Map" width="150%">
   </p>
