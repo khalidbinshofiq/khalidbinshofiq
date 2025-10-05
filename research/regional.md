@@ -1,15 +1,11 @@
 ## <i>📝 Project: Exploring the Influence of Potential Factors of Urban Change in Bangladesh. </i> <br>
 
----
 
-- **Selected Factors**
+- **💡Selected Factors**
  <p align="left">
-    <img src="./1.png" alt="Social and Resource Map" width="50%">
+    <img src="./1.png" alt="Social and Resource Map" width="50%">  <img src="./2.png" alt="Social and Resource Map" width="50%">
   </p>
 
- <p align="left">
-    <img src="./2.png" alt="Social and Resource Map" width="50%">
-  </p>
 
  <p align="left">
     <img src="./3.png" alt="Social and Resource Map" width="50%">
